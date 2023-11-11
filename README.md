@@ -1,7 +1,7 @@
 # Where did we go wrong
 Play on: https://zexoria.itch.io/where-did-we-go-wrong
 
-Created to participate in USF Spooky Game Jam hosted by the USF Game Dev club.
+Created to participate in USF Spooky Game Jam 2023 hosted by the USF Game Dev club.
 
 ## Instructions 
 - WASD to movement load next turn  
