@@ -10,7 +10,7 @@ Created to participate in USF Spooky Game Jam 2023 hosted by the USF Game Dev cl
 
 - Backspace to remove first loaded movent
 
-- Enemy will chase you 2 squares for any turns less than 3 and 3 squares for 3 or more loaded movements
+- Enemy will chase you 2 squares for any movements less than 3 and 3 squares for 3 or more loaded movements
 
 - Limited amount of battery on flash light, 8 moves on full charge
 
